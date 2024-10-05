@@ -42,7 +42,8 @@ Follow these steps to run the application locally:
 
 ## 📚 Usage
 
-- **Logging Waste**: Click on the “Log Waste” button and fill in the details.
+- **Logging Waste**: Click on the “Report Waste” button and fill in the details.
+- **Collecting Waste**: Click on the "Collect Wate" button to collect waste and earn points.
 - **Redeem**: Navigate to the “Rewards” section to view and redeem your points.
 
 ---
